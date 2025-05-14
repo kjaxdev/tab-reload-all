@@ -7,10 +7,9 @@ https://addons.mozilla.org/ja/firefox/addon/all-reload/
 
 ## How to use it
 
-![all-reload-demo](https://1.bp.blogspot.com/-ihB9lsHWpQU/XOj6T-oRR-I/AAAAAAAAf-8/OnTcwycpkC0IolN6hMTe7ucyJjpBW9oVACLcBGAs/s1600/all_reload_demo.gif)
 
-1. Show context menu by right click.
-2. Just click "all tabs reload".
+1. Show context menu by right click on any tab.
+2. Just click "Reload all tabs".
 
 ## Bug Report
 

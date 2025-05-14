@@ -1,12 +1,12 @@
 {
   "name": "all-reload",
-  "version": "1.2.0",
+  "version": "1.0",
   "description": "You can reload all tabs from context menu.",
   "main": "main.js",
   "scripts": {
     "lint": "eslint ."
   },
-  "author": "kakakikikeke <cdl.yoshinaka@gmail.com>",
+  "author": "kjaxdev",
   "license": "MPL-2.0",
   "devDependencies": {
     "eslint": "^9.23.0"
