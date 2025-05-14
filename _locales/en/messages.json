@@ -1,6 +1,6 @@
 {
   "menuItemReload": {
-    "message": "Z) all tabs reload",
+    "message": "Reload &all tabs",
     "description": "Reload all tabs when clicked."
   }
 }

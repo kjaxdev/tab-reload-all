@@ -13,7 +13,7 @@ function getCurrentWindowTabs() {
 browser.menus.create({
   id: "all-reload",
   title: browser.i18n.getMessage("menuItemReload"),
-  contexts: ["all"]
+  contexts: ["tab"],
 }, onCreated);
 
 browser.menus.onClicked.addListener((info) => {

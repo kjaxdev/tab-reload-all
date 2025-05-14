@@ -1,18 +1,15 @@
 {
   "manifest_version": 2,
-  "name": "all-reload",
+  "name": "kjax-all-reload",
   "version": "1.2.0",
   "description": "You can reload all tabs from context menu.",
-  "icons": {
-    "48": "icons/icon-48.png",
-    "64": "icons/icon-64.png"
-  },
+
   "background": {
     "scripts": ["main.js"]
   },
   "applications": {
     "gecko": {
-      "id": "all_reload@kakakikikeke.blogspot.com"
+      "id": ""
     }
   },
   "permissions": [
@@ -20,5 +17,5 @@
     "tabs"
   ],
   "default_locale": "en",
-  "homepage_url": "https://blog.kakakikikeke.com/2012/07/firefoxall-reload.html"
+  "homepage_url": ""
 }
